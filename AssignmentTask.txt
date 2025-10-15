@@ -1,0 +1,69 @@
+Week 1 Assignment
+
+
+1. Pattern Printing
+Write a Python program to print the following pattern using loops:
+*
+**
+***
+****
+*****
+******
+
+
+2. Multiplication Table (with validation)
+Write a Python program that prints the multiplication table of a given number.
+● Take input from the user.
+● If the number entered is not positive, ask the user to enter it again until a positive
+number is provided.
+Example:
+Enter a positive number: -3
+Please enter a positive number: 5
+5 x 1 = 5
+5 x 2 = 10
+...
+
+
+3. Fibonacci Sequence
+Write a Python program to print the Fibonacci sequence up to a given number of terms.
+Example:
+Enter number of terms: 7
+Output: 0 1 1 2 3 5 8
+
+
+4. Dictionary Keys and Values
+Write a Python program that uses a dictionary to store some data (e.g., names and ages).
+Then print:
+● All keys as a list
+● All values as a list
+Example:
+{'Ali': 23, 'Sara': 21, 'Hassan': 25}
+Keys: ['Ali', 'Sara', 'Hassan']
+Values: [23, 21, 25]
+
+
+5. Even and Odd Counter
+Write a Python program that takes a list of numbers as input from the user and counts how
+many numbers are even and how many are odd.
+
+
+6. Factorial Finder
+Write a Python program to calculate the factorial of a number using a loop.
+If the number is negative, display an appropriate message.
+
+
+7. Find Maximum and Minimum in a List
+Write a Python program that takes a list of integers from the user and prints the maximum and
+minimum numbers without using the built-in max() or min() functions.
+
+
+8. Web Scraping – Extract Titles
+Using the requests and BeautifulSoup libraries, write a Python program to:
+● Fetch the HTML of a webpage (e.g., https://quotes.toscrape.com)
+● Extract and print all the quote texts and authors’ names from the page.
+
+
+9. Web Scraping – Save Data to CSV
+Write a Python script that scrapes article titles and links from a website (e.g.,
+https://news.ycombinator.com) and saves them into a CSV file with columns:
+Title, Link
